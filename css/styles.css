@@ -1,0 +1,165 @@
+body {
+  color: #293462;
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 4.6rem;
+  font-family: 'Jua', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+  color: #FEDB39
+}
+
+h2 {
+  font-size: 2rem;
+  color: #FEB139;
+}
+
+h3 {
+  color: #1F4690;
+}
+
+a {
+  color: #FEDB39;
+  margin: auto 20px;
+  margin-bottom: 100px;
+  font-family: monospace;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #9ED2C6;
+}
+p{
+  line-height: 2;
+}
+
+hr {
+margin: 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 7%;
+  color: #5089C6
+}
+
+.top-container {
+  background-color: #5089C6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  line-height: 2;
+  padding: 50px 0;
+}
+
+.bottom-container {
+  line-height: 2
+}
+
+.skill-row1 {
+  position: relative;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 15%;
+  right: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 55%;
+  left: 15%;
+}
+
+.mountain {
+  position: relative;
+}
+
+.pro {
+  font-weight: bold;
+  color: #FFE9AE;
+}
+
+.p1 {
+  margin: auto;
+  width: 35%;
+}
+
+.bubble {
+  height: 130px;
+  position: relative;
+  top: 25px;
+  right: 10px;
+  margin: 0 0 15px 0;
+}
+
+.bubble2 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.bubble3 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bubble4 {
+  width: 10%;
+}
+
+.btn {
+  background: #FEB139;
+  background-image: -webkit-linear-gradient(top, #FEB139, #FEB139);
+  background-image: -moz-linear-gradient(top, #FEB139, #FEB139);
+  background-image: -ms-linear-gradient(top, #FEB139, #FEB139);
+  background-image: -o-linear-gradient(top, #FEB139, #FEB139);
+  background-image: linear-gradient(to bottom, #FEB139, #FEB139);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: monospace;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: green;
+  text-decoration: none;
+}
+
+.paddingbottom {
+  position: relative;
+  line-height: 2;
+  background-color: #5089C6;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+.copyright {
+  color: #9ED2C6;
+  font-size: 0.75rem;
+
+}
